@@ -10,7 +10,7 @@
 <br>
 <h3 align="left">Find me on</h3>
 <p align="left">
-<a href="https://dev.to/felix-wg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felix-wg" height="30" width="40" /></a>
+<a href="https://dev.to/felixwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felix-wg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18092231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18092231" height="30" width="40" /></a>
 </p>
 
